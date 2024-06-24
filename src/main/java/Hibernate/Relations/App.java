@@ -1,4 +1,4 @@
-package Relations;
+package Hibernate.Relations;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;

@@ -1,4 +1,4 @@
-package Relations;
+package Hibernate.Relations;
 
 import jakarta.persistence.*;
 
