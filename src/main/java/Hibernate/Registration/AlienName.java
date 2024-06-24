@@ -1,4 +1,4 @@
-package Registration;
+package Hibernate.Registration;
 
 import jakarta.persistence.Embeddable;
 

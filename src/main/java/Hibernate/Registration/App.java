@@ -1,4 +1,4 @@
-package Registration;
+package Hibernate.Registration;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
