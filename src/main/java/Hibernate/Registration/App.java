@@ -13,7 +13,7 @@ public class App {
         Alien alien = new Alien();
         AlienName alienName = new AlienName();
         alienName.setFirstName("Bob");
-        alienName.setLastName("Registration.Alien");
+        alienName.setLastName("Alien");
         alien.setName(alienName);
         alien.setId(2);
         alien.setColour("green");

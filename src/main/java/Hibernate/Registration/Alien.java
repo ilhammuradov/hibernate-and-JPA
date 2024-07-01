@@ -40,6 +40,6 @@ public class Alien {
 
     @Override
     public String toString() {
-        return "Registration.Alien{" + "id=" + id + ", name='" + name + '\'' + ", colour='" + colour + '\'' + '}';
+        return "Alien{" + "id=" + id + ", name='" + name + '\'' + ", colour='" + colour + '\'' + '}';
     }
 }

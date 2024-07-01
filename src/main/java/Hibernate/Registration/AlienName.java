@@ -25,6 +25,6 @@ public class AlienName {
 
     @Override
     public String toString() {
-        return "Registration.AlienName{" + "firstName='" + firstName + '\'' + ", lastName='" + lastName + '\'' + '}';
+        return "AlienName{" + "firstName='" + firstName + '\'' + ", lastName='" + lastName + '\'' + '}';
     }
 }
